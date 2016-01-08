@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: right;
-  background: url('images/weddingstruck.jpg') no-repeat top center ;
+  background: url('../images/weddingstruck.jpg') no-repeat top center ;
   background-size: 880px;
   overflow: hidden;
   padding-top: 0px;
@@ -87,7 +87,6 @@ header .profile-image:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: ;
 }
 .hi {
   margin-top: 5px;
@@ -191,10 +190,10 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(../images/twitter.svg);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(../images/github.svg);
 }
 a.social:hover {
   opacity: 1;
